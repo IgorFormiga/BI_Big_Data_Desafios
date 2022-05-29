@@ -2,7 +2,7 @@
 SET hive.exec.dynamic.partition=true;
 SET hive.exec.dynamic.partition.mode=nonstrict;
 
-INSERT INTO TABLE
+INSERT OVERWRITE TABLE
     ${TARGET_DATABASE}.${TARGET_TABLE}
 
 PARTITION(DT_FOTO) 
