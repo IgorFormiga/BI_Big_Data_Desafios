@@ -1,10 +1,10 @@
 # DESAFIO 1 SEMANA BIG DATA
 
-você foi selecionado para participar de um projeto, sabemos que encontra-se bastante empolgado para iniciar sua jornada como DEV BIG DATA, então elaboramos um desafio para que você possa treinar suas habilidades.
+Você foi selecionado para participar de um projeto, sabemos que encontra-se bastante empolgado para iniciar sua jornada como DEV BIG DATA, então elaboramos um desafio para que você possa treinar suas habilidades.
 
 ### IMPORTANTE
 
-este desafio não é obrigatório, tem apenas como finalidade passar um cenário de um projeto possível, para que vocês tenham uma noção como é o dia a dia de um Engenheiro de Dados. 
+Este desafio não é obrigatório, tem apenas como finalidade passar um cenário de um projeto possível, para que vocês tenham uma noção como é o dia a dia de um Engenheiro de Dados. 
 **não existe maneira certa ou errada de fazer invente a sua**.
 
 * Pesquize
@@ -16,7 +16,7 @@ este desafio não é obrigatório, tem apenas como finalidade passar um cenário
 
 ## ESCOPO
 
-você receberá em um pacote desafio_bigdata.zip que ira conter uma pasta "dados" com pastas e arquivos para serem ingeridos no HDFS, note que dentro da pasta dados existe uma ordem para que os arquivos sejam ingeridos, 1_ingestao, 2_ingestao, 3_ingestao, dentro de cada pasta possui um arquivo com dados_clientes.txt na sequencia de criação dos arquivos e uma pasta vazia de "scripts" onde vocês deverão criar dois arquivos em shell para executar os processos de criação do ambiente e a execução dos processos.
+Você receberá em um pacote desafio_bigdata.zip que ira conter uma pasta "dados" com pastas e arquivos para serem ingeridos no HDFS, note que dentro da pasta dados existe uma ordem para que os arquivos sejam ingeridos, 1_ingestao, 2_ingestao, 3_ingestao, dentro de cada pasta possui um arquivo com dados_clientes.txt na sequencia de criação dos arquivos e uma pasta vazia de "scripts" onde vocês deverão criar dois arquivos em shell para executar os processos de criação do ambiente e a execução dos processos.
 
 Layout da Pasta    
 - desafio
@@ -40,7 +40,7 @@ ou git clone https://github.com/caiuafranca/desafio_bigdata.git
 
 o pacote:
 
-desafio_bigdata-main terá a pasta "dados" e dentro as pastas com os arquivos para serem ingeridas e a pasta "script" onde você criara os scripts de rollout.sh (existe um template) e job.sh (existe um template)
+Desafio_bigdata-main terá a pasta "dados" e dentro as pastas com os arquivos para serem ingeridas e a pasta "script" onde você criara os scripts de rollout.sh (existe um template) e job.sh (existe um template)
 
 # TAREFA
 no HDFS você terá que criar a segunte estrutura de diretórios
@@ -61,6 +61,6 @@ no HDFS você terá que criar a segunte estrutura de diretórios
 
 ### OBS 
 
-usem e abusem do echo para evidenciar o seu processo em tela
+Usem e abusem do echo para evidenciar o seu processo em tela
 
 echo "Aproveitem a Jornada para adquirir conhecimento"

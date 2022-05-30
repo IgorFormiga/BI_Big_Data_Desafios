@@ -1,6 +1,6 @@
 # DESAFIO 2 SEMANA BIG DATA HIVE - INDRA | UNIESP 
 
-# Mapa mental da atividade: https://lucid.app/lucidchart/f844265f-436f-4879-9b0b-997aa31c4600/view?page=0_0&invitationId=inv_2cfe2913-1eb3-4fbf-8a79-518164b0b00e#
+Mapa mental da atividade: https://lucid.app/lucidchart/f844265f-436f-4879-9b0b-997aa31c4600/view?page=0_0&invitationId=inv_2cfe2913-1eb3-4fbf-8a79-518164b0b00e#
 
 
 
