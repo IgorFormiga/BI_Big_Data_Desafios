@@ -1,4 +1,4 @@
-# ATIVIDADE DE LIMPEZA DE DADOS UTILIZANDO SPARK BIG DATA HIVE - INDRA | UNIESP 
+# ATIVIDADE DE LIMPEZA DE DADOS UTILIZANDO SPARK
 
 1 - Entrar no servidor do spark
 $ docker.exe exec -it spark bash
